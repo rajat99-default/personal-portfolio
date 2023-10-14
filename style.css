@@ -9,6 +9,13 @@ body {
     padding: 9px;
 }
 
+#logo{
+    position: absolute;
+    width: 30px;
+    margin-left: 100px;
+    margin-top: -1px;
+}
+
 #navbar1 {
     display: flex;
     margin-left: 810px;
