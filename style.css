@@ -4,12 +4,12 @@ body {
     background-image: url(https://pragetx.com/image/top-slider-bg.jpg);
 }
 
-#topmenu{
+#topmenu {
     background-color: #0d1f3a;
     padding: 9px;
 }
 
-#logo{
+#logo {
     position: absolute;
     width: 30px;
     margin-left: 100px;
@@ -29,50 +29,51 @@ body {
     margin-left: 10px;
 }
 
-#navbar1phone{
+#navbar1phone {
     margin-left: 80px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#navbar1name{
+#navbar1name {
     margin-left: 100px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#navbar1email img{
+#navbar1email img {
     position: absolute;
     margin-left: -39px;
 }
 
-#navbar1phone img{
+#navbar1phone img {
     position: absolute;
     margin-left: -30px;
 }
 
-#navbar1name img{
+#navbar1name img {
     position: absolute;
     margin-left: -35px;
 }
-#logo{
+
+#logo {
     position: absolute;
     width: 90px;
 }
 
-#navbar ul{
+#navbar ul {
     display: flex;
     list-style-type: none;
     margin-left: 500px;
     font-size: 19px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+
 }
 
-#navbar ul li{
+#navbar ul li {
     margin: 50px;
     margin-top: 0px;
 }
 
-#touch{
+#touch {
     padding: 10px 25px 10px 25px;
     /* border: 2px solid red; */
     border-radius: 30px;
@@ -81,7 +82,7 @@ body {
     color: white;
 }
 
-#download{
+#download {
     padding: 10px 25px 10px 25px;
     /* border: 2px solid red; */
     border-radius: 30px;
@@ -90,38 +91,40 @@ body {
     color: white;
 }
 
-#navbarabout{
-    padding: 9px
-}
-#navbarhome{
+#navbarabout {
     padding: 9px
 }
 
-#hero{
+#navbarhome {
+    padding: 9px
+}
+
+#hero {
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#topskills{
+#topskills {
     margin-top: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 23px;
 }
-#topskillsimage img{ 
+
+#topskillsimage img {
     width: 300px;
 }
 
 #topskillsimage {
-    display: flex; 
+    display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
 
 #topskillsimage img {
-    width: 300px; 
-    height: auto; 
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
-    margin: 40px; 
+    width: 300px;
+    height: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 40px;
 }
 
 
@@ -130,11 +133,10 @@ body {
 } */
 
 
-#topskillsimage img:hover{
+#topskillsimage img:hover {
     opacity: 0.7;
     /* scale: 0.9;
-	transition: scale 0.5s; */  
+	transition: scale 0.5s; */
     overflow: hidden;
-    
-}
 
+}
